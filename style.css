@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto Mono', monospace;
+    
+}
+h1{
+    font-size: 50px;
+}
+.orange-color{
+    color: #f7772e;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(221, 54, 25),rgb(248, 169, 21));
+    padding: 20px 30px;
+    color: white;
+    border-radius: 40px;
+    font-size: 20px;
+    box-shadow: 5px 5px 10px rgb(196, 94, 76) ;
+}
